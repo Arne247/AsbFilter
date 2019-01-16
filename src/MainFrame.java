@@ -15,6 +15,8 @@ public class MainFrame extends JFrame {
 		
 /// testcommentaar
 		
+//testcommentaar2
+		
 		setLayout(new BorderLayout());
 		
 		textArea = new JTextArea();
